@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import os
 
-
 class Application(tk.Tk):
     def __init__(self):
         super().__init__()
